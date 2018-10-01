@@ -1,0 +1,90 @@
+{
+	"colors": [
+		{
+			"name": "Black",
+			"slug": "black",
+			"color": "#000",
+			"exclude": true
+		},
+		{
+			"name": "White",
+			"slug": "white",
+			"color": "#ffffff",
+			"exclude": true
+		},
+		{
+			"name": "Light Gray",
+			"slug": "light-gray",
+			"color": "#f5f7fb",
+			"exclude": true
+		},
+		{
+			"name": "Gray",
+			"slug": "gray",
+			"color": "#d2d4dc",
+			"exclude": false
+		},
+		{
+			"name": "Dark Gray",
+			"slug": "dark-gray",
+			"color": "#43464a",
+			"exclude": false
+		},
+		{
+			"name": "Text",
+			"slug": "text",
+			"color": "#434649",
+			"exclude": false
+		},
+		{
+			"name": "Dark Green",
+			"slug": "dark-green",
+			"color": "#1c4d0a",
+			"exclude": false
+		},
+		{
+			"name": "Mid Green",
+			"slug": "mid-green",
+			"color": "#5e884e",
+			"exclude": false
+		},
+		{
+			"name": "Forest Green",
+			"slug": "forest-green",
+			"color": "#88b654",
+			"exclude": false
+		},
+		{
+			"name": "Light Green",
+			"slug": "light-green",
+			"color": "#c0d27d",
+			"exclude": false
+		}
+	],
+	"sizes": [
+		{
+			"name": "small",
+			"shortName": "S",
+			"size": 12,
+			"slug": "small"
+		},
+		{
+			"name": "regular",
+			"shortName": "M",
+			"size": 16,
+			"slug": "regular"
+		},
+		{
+			"name": "large",
+			"shortName": "L",
+			"size": 36,
+			"slug": "large"
+		},
+		{
+			"name": "larger",
+			"shortName": "XL",
+			"size": 50,
+			"slug": "larger"
+		}
+	]
+}
